@@ -1,0 +1,12 @@
+.heading{
+    color: aqua;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+*{
+   background-color: blueviolet;
+}
+.pic{
+    height: 300px;
+    width: 300px;
+}
